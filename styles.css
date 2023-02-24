@@ -1,0 +1,131 @@
+body{
+    background-color: #FFFBF5;
+    color: rgba(5, 5, 4, 0.859);
+    font-size: 1.25em;
+    margin: 0;
+    text-align: center;
+    font-family: Slabo 27px;
+}
+.pic{
+    height: 100px;
+    width: 100px;
+}
+.name{
+    position: relative;
+}
+h1{
+    font-size: 4.80rem;
+    margin: 50px auto 0 auto;
+    font-family: Dancing Script;
+    color: #ECF9FF;
+}
+.wd{
+    position: relative;
+     font-size: 3rem;
+    font-family: Dancing Script;
+    color: #ECF9FF;
+}
+.bio{
+    width: 50%;
+    margin: auto;
+    
+}
+h2{
+    color: #0A2647;
+    font-family: Satisfy;
+    font-size: 2.8rem;
+}
+h3{
+    color: #820000;
+}
+.top{
+    background-color: #0A2647;
+    position: relative;
+    padding: 250px;
+}
+    
+.joker{
+    position: absolute;
+    height: 700px;
+    width: 500px;
+    top: 9%;
+    right: 33%;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.coder{
+    width: 40%;
+    float: left;
+    margin-right: 30px;
+    padding-bottom: 7%;
+    padding-top: 5%;
+}
+.codesk{
+    font-size: 2rem;
+}
+.sleep{
+    padding-bottom: 11%;
+    width: 40%;
+    float: right;
+    margin-left: 30px;
+}
+.sleepsk{
+    font-size: 2rem;
+}
+.button{
+    background: #1b0975;
+    background-image: -webkit-linear-gradient(top, #1b0975, #6a2a91);
+    background-image: -moz-linear-gradient(top, #1b0975, #6a2a91);
+    background-image: -ms-linear-gradient(top, #1b0975, #6a2a91);
+    background-image: -o-linear-gradient(top, #1b0975, #6a2a91);
+    background-image: linear-gradient(to bottom, #1b0975, #6a2a91);
+    -webkit-border-radius: 25;
+    -moz-border-radius: 25;
+    border-radius: 25px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 23px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .button:hover{
+    background: #10518f;
+    background-image: -webkit-linear-gradient(top, #10518f, #3f10e8);
+    background-image: -moz-linear-gradient(top, #10518f, #3f10e8);
+    background-image: -ms-linear-gradient(top, #10518f, #3f10e8);
+    background-image: -o-linear-gradient(top, #10518f, #3f10e8);
+    background-image: linear-gradient(to bottom, #10518f, #3f10e8);
+    text-decoration: none;
+  }
+
+.bottom{
+    background-color: #66BFBF;
+    padding: 30px;
+
+}
+
+.footer-link{
+    margin: auto 20px;
+    text-decoration: none;
+    color: #000000;
+
+}
+.footer-link:hover{
+ color: #E4F9F5;
+}
+
+hr{
+    border: dotted #1CD6CE;
+    border-bottom: none;
+    width: 8%;
+    border-width: 8px;
+   margin: 100px auto;
+}
+.cr{
+    font-size: 2rem;
+}
